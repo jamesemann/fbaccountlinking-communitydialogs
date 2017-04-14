@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" href="https://static2.sharepointonline.com/files/fabric/office-ui-fabric-js/1.2.0/css/fabric.min.css" />
+    <link rel="stylesheet" href="https://static2.sharepointonline.com/files/fabric/office-ui-fabric-js/1.2.0/css/fabric.components.min.css" />
+    <script src="https://static2.sharepointonline.com/files/fabric/office-ui-fabric-js/1.2.0/js/fabric.min.js"></script>
+</head>
+<body>
+    <div> 
+        <h3 class="ms-font-xxl ms-fontColor-themePrimary">Link your account</h3>
+        <form action="login/submit" method="POST">
+            <input type="hidden" name="formRedirectUrl" value="@ViewBag.fbRedirectUri" />
+
+            <div class="ms-TextField">
+                <label class="ms-Label">Username</label>
+                <input class="ms-TextField-field" type="text" value="" placeholder="">
+            </div>
+            <div class="ms-TextField">
+                <label class="ms-Label">Password</label>
+                <input class="ms-TextField-field" type="password" value="" placeholder="">
+            </div>
+
+            <button class="ms-Button ms-Button--primary" type="submit">
+                <span class="ms-Button-label">Login</span>
+            </button>
+        </form>
+    </div>
+</body>
+</html>

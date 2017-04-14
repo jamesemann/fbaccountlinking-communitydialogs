@@ -1,0 +1,42 @@
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Bot Application1.dll.config
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Bot Application1.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Bot Application1.pdb
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Autofac.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Chronic.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\CommunityDialogs.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.Bot.Builder.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.Bot.Connector.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Newtonsoft.Json.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\System.Net.Http.Formatting.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\System.Web.Http.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\System.Web.Http.WebHost.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Autofac.xml
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.Bot.Builder.xml
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.Bot.Connector.xml
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\Newtonsoft.Json.xml
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\System.Net.Http.Formatting.xml
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\System.Web.Http.xml
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\System.Web.Http.WebHost.xml
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\obj\Debug\Bot Application1.dll
+C:\projects\fbaccountlinking-communitydialogs\Bot\obj\Debug\Bot Application1.pdb
